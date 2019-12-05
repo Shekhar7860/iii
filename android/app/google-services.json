@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "95551030888",
+    "firebase_url": "https://pgservices-c04a9.firebaseio.com",
+    "project_id": "pgservices-c04a9",
+    "storage_bucket": "pgservices-c04a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95551030888:android:7b7a764257badf60e4dddd",
+        "android_client_info": {
+          "package_name": "com.pgservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95551030888-g9sjk1qgldmidr5t7olmjh5t3436mog3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcuz-Aj4sqWEfc4XxQsmvWRKWkPr7Cs7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95551030888-g9sjk1qgldmidr5t7olmjh5t3436mog3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
